@@ -1,0 +1,2 @@
+// Ausblenden des Schließen-Buttons im Cookie-Hinweis
+#cookie-notice #cn-close-notice { display: none; }
